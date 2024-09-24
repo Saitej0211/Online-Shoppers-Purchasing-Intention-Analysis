@@ -1,7 +1,3 @@
-Here's a README file for your GitHub repository based on the project report:
-
----
-
 # Insights into Online Shopper Behavior
 
 ## Overview
